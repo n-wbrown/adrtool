@@ -1,0 +1,4 @@
+Example URl lacking time specification. Archiver appliance must have a default
+line count or duration limiting unspecified queries.
+
+https://pswww.slac.stanford.edu/epics/retrieval/data/getData.json?pv=GDET%3AFEE1%3A241%3AENRC
